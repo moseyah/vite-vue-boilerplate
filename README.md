@@ -29,6 +29,10 @@ pnpm install
 pnpm run dev --host
 ```
 
+# Use another framework?
+- [React template](https://github.com/telegram-mini-apps-dev/vite-boilerplate).
+
 # Links
 - [Doc](https://docs.ton.org/develop/dapps/twa)
+- [Example Bot](https://t.me/vite_vue_twa_example_bot/vite_vue_twa_example_bot)
 - [Link](https://vite-vue-boilerplate-two.vercel.app/)

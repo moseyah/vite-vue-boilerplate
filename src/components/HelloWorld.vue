@@ -11,7 +11,7 @@ const count = ref(0)
   <h1>{{ msg }}</h1>
 
   <div class="card">
-    <button type="button" style="margin-right: 1.5em;" @click="count++">
+    <button type="button" @click="count++">
       count is {{ count }}
     </button>
     <button type="button" @click="() => WebApp.showAlert(`Hello World! Current count is ${count}`)">
